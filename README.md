@@ -3,7 +3,7 @@
 
 ----
 
-This is a companion project for our article on [converting complex Objective-C projects using Swiftify](the article at https://medium.com/swiftify/converting-complex-objective-c-codebases-to-swift-3d68e15db8da).
+This is a companion project for our article on [converting complex Objective-C projects using Swiftify](https://medium.com/swiftify/converting-complex-objective-c-codebases-to-swift-3d68e15db8da).
 
 - [Issues / Feedback / Feature Requests](https://github.com/alex-swiftify/Swiftify/issues) 
 - [Frequently Asked Questions](https://support.swiftify.com/hc/en-us/categories/115000425072-FAQ)
